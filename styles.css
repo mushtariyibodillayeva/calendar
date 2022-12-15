@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to right, #34547a 50%, green 50%);
+}
+.table {
+  width: 200px;
+  font-size: 40px;
+  color: yellow;
+  margin: 20% 40%;
+  background-image: linear-gradient(to right, #34547a, green);
+}
+th {
+  padding: 25px;
+}
